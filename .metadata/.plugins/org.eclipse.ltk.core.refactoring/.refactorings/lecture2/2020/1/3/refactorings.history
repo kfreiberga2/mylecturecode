@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;ControlFlow&apos; to &apos;ControlFlowIf&apos;&#x0A;- Original project: &apos;lecture2&apos;&#x0A;- Original element: &apos;ControlFlow&apos;&#x0A;- Renamed element: &apos;ControlFlowIf&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ControlFlow&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{ControlFlow.java[ControlFlow" matchStrategy="1" name="ControlFlowIf" qualified="false" references="true" similarDeclarations="false" stamp="1579286844348" textual="false" version="1.0"/>
+</session>

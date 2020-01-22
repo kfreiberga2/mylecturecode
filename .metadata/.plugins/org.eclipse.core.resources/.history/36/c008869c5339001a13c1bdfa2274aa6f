@@ -1,0 +1,26 @@
+
+public class OperatorsMath {
+
+	public static void main(String[] args) {
+		double num1=0.4;
+		double num2=0.20;
+		double result;
+		char operators= '+';
+		char op1= '-'	;
+		char op2= '*'	;	
+		char op3= '%'	;	
+
+		result= num1 + num2;
+		
+		System.out.println(num1+ " "+operators+" "+num2+ " "+"=" +result);
+		System.out.println();
+		//System.out.println(num1+ " "+op1+" "+num2- " "+"=" +result);
+		System.out.println();
+		System.out.println(num1+ " "+op2+" "+num2* " "+"=" +result);
+		System.out.println();
+		System.out.println(num1+ " "+op3+" "+num2% " "+"=" +result);
+
+
+	}
+
+}

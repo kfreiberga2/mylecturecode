@@ -1,0 +1,20 @@
+
+public class SwitchTask {
+
+	public static void main(String[] args) {
+	
+		int number=4;
+		switch(number){
+			case 4:
+				System.out.println("ONE");
+				break;
+			case 2:
+				System.out.println("TWO");
+				break;
+			default:
+				System.out.println("Not number represent");
+		}
+
+	}
+
+}

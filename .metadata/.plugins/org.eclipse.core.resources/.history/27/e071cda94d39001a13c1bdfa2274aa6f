@@ -1,0 +1,31 @@
+
+public class PrimType {
+
+	public static void main(String[] args) {
+		
+		// numeric data primitive type
+		int integer = 2;
+		long longInteger = 92837525398L;
+		short shortInteger = 754;
+		byte byteInteger = 56;
+		
+		//Floating-Point tyoe real numbers
+		double doubleFloutNumber = 0.5d;
+		float floatNumber = 0.932857f; 
+		
+		//characters
+		char charSymbol = 'a';
+		char charSymbolAsNumber = 33;
+		char K = 75;
+		char R = 82;
+		char I = 73;
+		char S = 83;
+		System.out.println(K+R+I+S);
+		
+		
+		System.out.println("Char: " +charSymbolAsNumber);
+		
+		
+	}
+
+}

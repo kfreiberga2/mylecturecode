@@ -1,0 +1,21 @@
+
+public class IfElseAndTernaryOperator {
+
+	
+	public static void main(String[] args) {
+		// Ternary operator '?'
+		boolean test = false;
+		
+		if(test){
+			System.out.println("Test pass true");
+		}else{
+			System.out.println("Test pass false");
+		}
+		
+		String stringExp = "te ir string vērtība";
+		
+		String res = (test) ? "Test pass true":"Test pass false";
+		System.out.println(res);
+	}
+
+}

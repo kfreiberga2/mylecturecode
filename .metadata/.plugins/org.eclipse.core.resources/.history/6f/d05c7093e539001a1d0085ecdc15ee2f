@@ -1,0 +1,15 @@
+public class FarLoops {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Number "+1);
+
+		System.out.println("---------------------");
+		
+		for (int i = 0; i < 100; i++) {
+			System.out.println("Number " + i);
+		}
+
+	}
+
+}

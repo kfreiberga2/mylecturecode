@@ -1,0 +1,11 @@
+
+public class VarType {
+
+	public static void main(String[] args) {
+		int num=0;
+		int num1=0;
+		String string="";
+		System.out.println("num value: "+num);
+	}
+
+}

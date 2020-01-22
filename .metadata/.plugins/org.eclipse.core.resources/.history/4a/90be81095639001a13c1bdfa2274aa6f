@@ -1,0 +1,36 @@
+
+public class OperatorsMath {
+
+	public static void main(String[] args) {
+		double num1=0.4;
+		double num2=0.20;
+		double result;
+		double result1;
+		char add= '+';
+		char sub= '-'	;
+		char mult= '*'	;	
+		char divi= '/'	;	
+
+		result= num1 + num2;
+		result1=num1-num2;
+		
+		//System.out.println(num1+ " "+add+" "+num2+ " "+"=" +result);
+		//System.out.println();
+		//System.out.println(num1+ " "+sub+" "+num2- " "+"=" +result1);
+		//System.out.println();
+		//System.out.println(num1+ " "+multi+" "+num2* " "+"=" +result);
+		//System.out.println();
+		//System.out.println(num1+ " "+divi+" "+num2% " "+"=" +result);
+
+		
+		int a= 11;
+		int b=4;
+		int x= a % b;
+		System.out.println("x= "+x);
+		
+		int i=5;
+		
+		System.out.println(++i);
+	}
+
+}

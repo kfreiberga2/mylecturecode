@@ -1,0 +1,17 @@
+
+public class PrintNumberInWord {
+
+	public static void main(String[] args) {
+	
+		int one = 1;
+		int two =2;
+		int three=3;
+		
+		if (one==1){
+			System.out.println("ONE");
+		}else{
+			System.out.println("TWO");
+		}
+	}
+
+}
