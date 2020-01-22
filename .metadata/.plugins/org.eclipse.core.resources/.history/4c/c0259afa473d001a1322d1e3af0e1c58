@@ -1,0 +1,33 @@
+import java.util.Scanner;
+
+
+public class ScannerUzdKalkulators {
+
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		// syso (result = num  1 + num2)
+		
+		int num1 =40;
+		int num2 =50;
+		String darbiba = add;
+		
+		System.out.println("enter number1: ");
+		
+		
+		num1 = sc.nextInt();
+
+		sc.nextLine();
+
+		System.out.println("enter number2:");
+		num2 =sc.nextInt();
+		
+		System.out.println("izvelies darbibu: add/ sub : ");
+		darbiba =sc.nextLine()
+		
+//		System.out.println("your number is " + number);
+//		System.out.println("your name is " + name);
+
+	}
+
+}
