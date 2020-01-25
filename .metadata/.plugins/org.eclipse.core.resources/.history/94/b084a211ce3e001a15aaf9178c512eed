@@ -1,0 +1,15 @@
+package lv.kristine;
+
+public class LearnMethods {
+
+	public static void main(String[] args) {
+		getArea();
+		System.out.println(getArea());
+	}
+
+	public static double getArea() {
+		return 5.0 * 20.3;
+		
+	}
+
+}

@@ -1,0 +1,27 @@
+package lv.kristine;
+
+public class LearnMethoods {
+
+	public static void main(String[] args) {
+		// void = not return type - atgriez visu, ko apstada;
+		// static = nevajag veidot klases objektu, lai izsauktu metodi
+		// main metode m ak atrast citu metodi un laiazt to
+		getMyName();
+		getMyName();
+		getMyName();
+		getMyName();
+	}
+
+	public static void getMyName() {
+		System.out.println("My name is Kristine");
+	}
+
+	public static void getMyName() {
+
+	}
+
+	public static void getMyName() {
+
+	}
+
+}

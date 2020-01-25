@@ -1,0 +1,25 @@
+package lv.kristine;
+
+public class LearnMethodsWithParametrs {
+
+	public static void main(String[] args) {
+		double radius = 30.2;
+		int resultWithCastInt = getArea(radius); //this metod cast double 
+		double result = getAreaForCircle(radius);
+		
+		
+		System.out.println("Area: " + result);
+	}
+
+	public static int getArea(double radius) {
+		double result = Math.PI * radius * radius;
+		return (int) result;
+	}
+	
+	
+	public static int getAreaForCircle(double radius) {
+		double result = Math.PI * radius * radius;
+		return result;		
+	}
+
+}

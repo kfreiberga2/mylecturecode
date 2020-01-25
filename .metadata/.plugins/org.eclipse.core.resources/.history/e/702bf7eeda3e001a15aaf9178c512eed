@@ -1,0 +1,14 @@
+package lv.kristine.learnjavaclass;
+
+public class TestJavaProgramm {
+
+	
+	public static void main(String[] args) {
+
+		Box boxObject = new Box ();
+		
+		boxObject.height;
+		
+	}
+
+}

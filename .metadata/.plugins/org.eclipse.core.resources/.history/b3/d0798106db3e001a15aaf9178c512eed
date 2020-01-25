@@ -1,0 +1,9 @@
+package lv.kristine.learnjavaclass;
+
+public class Box {
+	double width;
+	double height=20.45;
+	double depth;
+	
+	
+}
