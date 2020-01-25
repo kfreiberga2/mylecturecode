@@ -1,0 +1,26 @@
+package lv.kristine2.repeat;
+
+import java.util.Scanner;
+
+public class TestScanner {
+
+	
+	public static void main(String[] args) {
+		final double TAX_RATE_20k = 0.1;
+		final double TAX_RATE_30k = 0.2;
+		final double TAX_RATE_40k = 0.3;
+		
+		int taxableIncome;
+		double taxPayable;
+		
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("Enter taxaable income:");
+		taxableIncome = sc.nextInt();
+		
+		
+		
+
+	}
+
+}

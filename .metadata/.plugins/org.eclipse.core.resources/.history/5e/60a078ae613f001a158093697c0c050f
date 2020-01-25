@@ -1,0 +1,27 @@
+package lv.kristine2.repeat;
+
+import java.util.Scanner;
+
+public class TestJava {
+
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		
+		System.out.println("input value:");
+		int inputValue = 10;
+		
+		
+	
+			while(input.hasNextInt()){
+				inputValue = input.nextInt();
+				
+		}
+		
+		
+		
+		System.out.println("your name is : "+inputValue);
+		
+	}
+
+}

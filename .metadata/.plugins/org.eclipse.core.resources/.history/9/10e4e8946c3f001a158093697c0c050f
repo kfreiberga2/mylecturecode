@@ -1,0 +1,22 @@
+package lv.kristine2.learnstring;
+
+public class TestStringClass {
+
+	public static void main(String[] args) {
+		String str = "index";
+		
+		String strClass = new String("Index param ");
+		
+		
+		System.out.println(str);
+		System.out.println("string like object "+strClass);
+		
+		int stringLenght = str.length();
+		System.out.println(stringLenght);
+		
+		
+		System.out.println(str.charAt(0));
+		
+	}
+
+}

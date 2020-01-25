@@ -1,0 +1,10 @@
+package lv.kristine2.learnstring;
+
+public class TestStringClass {
+
+	public static void main(String[] args) {
+		String str = "index";
+		System.out.println(str);
+	}
+
+}
