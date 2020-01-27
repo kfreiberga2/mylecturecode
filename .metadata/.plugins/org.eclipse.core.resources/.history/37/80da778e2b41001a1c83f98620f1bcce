@@ -1,0 +1,23 @@
+package lv.kristine;
+
+public class TestBookStore {
+
+	
+	public static void main(String[] args) {
+		
+		char m = 'm';
+		char f = 'f';
+		char o = 'm';
+		
+		if (m==o || f==o){
+			System.out.println("it is M of F");
+		
+		}else{
+			System.out.println("wrong data");
+		}
+		
+		
+		
+	}
+
+}

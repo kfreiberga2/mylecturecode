@@ -1,0 +1,33 @@
+package lv.kristine;
+
+public class TestBookStore {
+
+	
+	public static void main(String[] args) {
+		
+		char m = 'm';
+		char f = 'f';
+		char kk = 'm';
+		
+//		if (m==kk || f==kk){
+//			System.out.println("it is M of F");
+//		
+//		}else{
+//			System.out.println("wrong data");
+//		}
+		
+		switch (kk){
+		case 'm' :
+			System.out.println("its M");
+			break;
+		case 'f':
+			System.out.println("its F");
+			break;
+		default:
+			System.out.println("Not in list");
+		}
+		
+		
+	}
+
+}
