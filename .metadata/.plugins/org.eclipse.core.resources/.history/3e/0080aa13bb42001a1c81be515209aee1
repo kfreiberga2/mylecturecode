@@ -1,0 +1,13 @@
+package lv.kristine;
+
+import lv.kristine.graph.Point2D;
+
+public class TestInheritance {
+
+	public static void main(String[] args) {
+		Point2D grafiks = new Point2D();
+		System.out.println(Point2D);
+		
+		
+	}
+}

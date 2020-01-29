@@ -1,0 +1,11 @@
+package lv.kristine;
+
+public class TestInheritance {
+
+	public static void main(String[] args) {
+		Point2D grafiks = new Point2D();
+		System.out.println(Point2D);
+		
+		
+	}
+}
