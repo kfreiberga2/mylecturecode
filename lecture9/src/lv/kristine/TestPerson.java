@@ -26,7 +26,25 @@ public class TestPerson {
 		for(String course: courses){
 			teacher1.addCourse (course);
 		}
-				
+		
+		Teacher t1 =new Teacher("Toms B", "Rigas iela");
+		System.out.println(t1.toString());
+		String [] coursesForT1 = {"SC10", "AL", "BIO", "SC10"};
+		
+		for(String core: coursesForT1){
+			if(t1.addCourses(core)){
+				System.out.println(core+" added ");
+			}else{
+				System.out.println(core+" cannot be add");
+			}
+		}
+		for(String core: coursesForT1){
+			if(t1.removeCourses(core)){
+				System.out.println(core+" remove ");
+			}else{
+				System.out.println(core+" cannot be removed");
+			}
+		}
 	}
 
 }

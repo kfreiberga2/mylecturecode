@@ -1,0 +1,22 @@
+package lv.kristine;
+
+import lv.kristine.interfaces.Rectangle;
+import lv.kristine.interfaces.Shape;
+
+public class TestInterface {
+
+	public static void main(String[] args) {
+
+		int num1 = 20;
+		int num2 = 34;
+		
+		
+		Rectangle rect = new Rectangle(num1, num2);
+		System.out.println(rect.getLenght()+ ", "+rect.getWidth());
+		
+		Shape figure1 = new Rectangle(5,10);
+		System.out.println(figure1.toString());
+		
+		
+	}
+}

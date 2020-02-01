@@ -1,0 +1,17 @@
+package lv.kristine;
+
+import lv.kristine.interfaces.Rectangle;
+
+public class TestInterface {
+
+	public static void main(String[] args) {
+
+		int num1 = 20;
+		int num2 = 34;
+		
+		
+		Rectangle rect = new Rectangle(num1, num2);
+		System.out.println(rect.getLenght()+ " "+rect.getWidth());
+		
+	}
+}

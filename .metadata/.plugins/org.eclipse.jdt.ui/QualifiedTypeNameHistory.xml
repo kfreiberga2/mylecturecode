@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.util.Arrays"/>
 <fullyQualifiedTypeName name="lv.kristine2.player.FootballPlayer"/>
 <fullyQualifiedTypeName name="lv.kristine2.geometricfigures.Circle"/>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="lv.kristine.bookstore.Author"/>
 <fullyQualifiedTypeName name="lv.kristine.bookstore.Book"/>
+<fullyQualifiedTypeName name="lv.kristine.graph.Point2D"/>
+<fullyQualifiedTypeName name="lv.kristine.graph.Point4D"/>
+<fullyQualifiedTypeName name="lv.kristine.user.Teacher"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="lv.kristine.encapsulation.Student"/>
+<fullyQualifiedTypeName name="lv.kristine.inheritance.Golf"/>
+<fullyQualifiedTypeName name="lv.kristine.polymorphism.Animal"/>
+<fullyQualifiedTypeName name="lv.kristine.polymorphism.Dog"/>
+<fullyQualifiedTypeName name="lv.kristine.polymorphism.Cat"/>
+<fullyQualifiedTypeName name="lv.kristine.interfaces.Rectangle"/>
+<fullyQualifiedTypeName name="lv.kristine.interfaces.Shape"/>
+<fullyQualifiedTypeName name="lv.kristine.interfaces.Triangle"/>
 </qualifiedTypeNameHistroy>

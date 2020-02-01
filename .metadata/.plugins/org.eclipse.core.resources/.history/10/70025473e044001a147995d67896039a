@@ -1,0 +1,14 @@
+package lv.kristine.interfaces;
+
+public class Triangle implements Shape{
+
+	private int base;
+	private int height;
+	
+	public Triangle (int b, int h){
+		this.base = b;
+		this.height= h;
+		
+		
+	}
+}

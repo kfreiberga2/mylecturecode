@@ -1,0 +1,14 @@
+package lv.kristine;
+
+public class TestArraysAndLists {
+
+	public static void main(String[] args) {
+		String[] arr = new String [10];
+		String [] arrWith = {"1","1","1","1","1","1","1","1","1","1"}
+		 for (int i=0; i<arrWith.length; i++){
+			 System.out.println("index number is "+i+" "+arrWith[i]);
+		 }
+
+	}
+
+}
