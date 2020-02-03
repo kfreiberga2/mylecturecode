@@ -1,0 +1,21 @@
+package lv.kristine;
+
+import java.util.Scanner;
+
+public class TestScannerInputArray {
+
+	public static void main(String[] args) {
+		int i;
+		
+		String [] masivs = new String [i];
+		
+		Scanner sc= new Scanner(System.in);
+		
+		String [i] =sc.next();
+			
+		
+		
+
+	}
+
+}

@@ -1,0 +1,22 @@
+package lv.kristine;
+
+import java.util.Scanner;
+
+public class TestScannerInputArray {
+
+	public static void main(String[] args) {
+
+		String[] masivs = new String[3];
+
+		Scanner sc = new Scanner(System.in);
+
+		System.out.println("ievadi vārdu: ");
+
+		while (!sc.hasNextInt()) {
+			System.out.println("nakamais vards");
+			String masivs [0] =sc.nextLine();
+		}
+
+	}
+
+}

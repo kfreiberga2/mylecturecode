@@ -2,7 +2,6 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="lv.kristine2.player.FootballPlayer"/>
 <fullyQualifiedTypeName name="lv.kristine2.geometricfigures.Circle"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="lv.kristine.bookstore.Author"/>
 <fullyQualifiedTypeName name="lv.kristine.bookstore.Book"/>
 <fullyQualifiedTypeName name="lv.kristine.graph.Point2D"/>
@@ -17,4 +16,7 @@
 <fullyQualifiedTypeName name="lv.kristine.interfaces.Rectangle"/>
 <fullyQualifiedTypeName name="lv.kristine.interfaces.Shape"/>
 <fullyQualifiedTypeName name="lv.kristine.interfaces.Triangle"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>

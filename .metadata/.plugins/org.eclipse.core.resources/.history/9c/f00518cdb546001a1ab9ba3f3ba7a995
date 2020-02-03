@@ -1,0 +1,19 @@
+package lv.kristine;
+
+import java.util.ArrayList;
+
+public class TestArrayWithObject {
+
+
+	public static void main(String[] args) {
+		 
+		Integer intObj = 40;
+		System.out.println(intObj);
+		
+	//	ArrayList<int> cars = new ArrayList<>();
+		
+		
+		
+	}
+
+}
