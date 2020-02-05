@@ -16,6 +16,7 @@ public class Team {
 	}
 	
 	
+	
 	public int gamesPlayed(){
 		return this.wins+ this.ties+this.losses;
 		

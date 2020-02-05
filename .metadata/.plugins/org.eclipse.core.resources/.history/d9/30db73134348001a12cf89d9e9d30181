@@ -1,0 +1,26 @@
+package lv.kristine;
+
+public class TestExceptionHandling {
+
+	
+	public static void main(String[] args) {
+		
+		try{
+			int number1 = 0;
+			int number2 = 10;
+			int result = number2/number1;
+			System.out.println(result);
+		}catch(Exception e){
+			System.out.println("check code in try catch block");
+		}
+		
+		
+		
+		int number1 = 0;
+		int number2 = 10;
+		int result = number2/number1;
+		System.out.println(result);
+
+	}
+
+}

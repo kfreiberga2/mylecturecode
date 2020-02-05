@@ -31,17 +31,22 @@
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
 <part id="1"/>
+<part id="2"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Team.java" partName="Team.java" path="/home/student/workspace/LeagueGame/src/lv/kristine/module/Team.java" title="Team.java" tooltip="LeagueGame/src/lv/kristine/module/Team.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LeagueGame/src/lv/kristine/module/Team.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="316" selectionTopPixel="0"/>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestTeamAndLeague.java" partName="TestTeamAndLeague.java" path="/home/student/workspace/LeagueGame/src/lv/kristine/test/TestTeamAndLeague.java" title="TestTeamAndLeague.java" tooltip="LeagueGame/src/lv/kristine/test/TestTeamAndLeague.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LeagueGame/src/lv/kristine/test/TestTeamAndLeague.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="340" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="League.java" partName="League.java" path="/home/student/workspace/LeagueGame/src/lv/kristine/module/League.java" title="League.java" tooltip="LeagueGame/src/lv/kristine/module/League.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LeagueGame/src/lv/kristine/module/League.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="81" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="670" selectionTopPixel="63"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Team.java" partName="Team.java" path="/home/student/workspace/LeagueGame/src/lv/kristine/module/Team.java" title="Team.java" tooltip="LeagueGame/src/lv/kristine/module/Team.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LeagueGame/src/lv/kristine/module/Team.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="147"/>
 </editor>
 </editors>
 <views>
@@ -79,10 +84,6 @@
 </view>
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
-<expanded>
-<category IMemento.internal.id="Errors"/>
-<category IMemento.internal.id="Warnings"/>
-</expanded>
 <columnWidths org.eclipse.ui.ide.locationField="105" org.eclipse.ui.ide.markerType="575" org.eclipse.ui.ide.pathField="140" org.eclipse.ui.ide.resourceField="105" org.eclipse.ui.ide.severityAndDescriptionField="350"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
@@ -294,162 +295,159 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture11/src/lv/kristine/TestScannerInputArray.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture11/src/lv/kristine/TestArrayList.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture11/src/lv/kristine/TaskTestArrayMethods.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture11/src/lv/kristine/TestArrayWithObject.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/LeagueGame/src/lv/kristine/module/Team.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/LeagueGame/src/lv/kristine/test/TestTeamAndLeague.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/LeagueGame/src/lv/kristine/module/League.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/LeagueGame/src/lv/kristine/module/Team.java"/>
 </editors>
-<item historyLabel="TestScannerInputArray.java" index="0">
-<position info="not_deleted" x="581" y="0"/>
+<item historyLabel="TestTeamAndLeague.java" index="0">
+<position info="not_deleted" x="513" y="0"/>
 </item>
-<item historyLabel="TestScannerInputArray.java" index="0">
-<position info="not_deleted" x="696" y="0"/>
-</item>
-<item historyLabel="TestScannerInputArray.java" index="0">
-<position info="not_deleted" x="649" y="1"/>
-</item>
-<item historyLabel="TestScannerInputArray.java" index="0">
-<position info="not_deleted" x="699" y="0"/>
-</item>
-<item historyLabel="TestScannerInputArray.java" index="0">
-<position info="not_deleted" x="523" y="0"/>
-</item>
-<item historyLabel="TaskTestArrayMethods.java" index="2">
-<position info="not_deleted" x="556" y="0"/>
-</item>
-<item historyLabel="TestArrayWithObject.java" index="3">
-<position info="not_deleted" x="439" y="0"/>
-</item>
-<item historyLabel="TaskTestArrayMethods.java" index="2">
-<position info="not_deleted" x="132" y="43"/>
-</item>
-<item historyLabel="TestArrayWithObject.java" index="3">
-<position info="not_deleted" x="439" y="0"/>
-</item>
-<item historyLabel="TestArrayWithObject.java" index="3">
-<position info="not_deleted" x="330" y="0"/>
-</item>
-<item historyLabel="TestArrayWithObject.java" index="3">
-<position info="not_deleted" x="351" y="0"/>
-</item>
-<item historyLabel="TestArrayWithObject.java" index="3">
-<position info="not_deleted" x="501" y="0"/>
-</item>
-<item historyLabel="TestArrayWithObject.java" index="3">
-<position info="not_deleted" x="545" y="0"/>
-</item>
-<item historyLabel="TestArrayWithObject.java" index="3">
-<position info="not_deleted" x="415" y="21"/>
-</item>
-<item historyLabel="TestScannerInputArray.java" index="0">
-<position info="not_deleted" x="523" y="0"/>
-</item>
-<item historyLabel="TestArrayWithObject.java" index="3">
-<position info="not_deleted" x="415" y="21"/>
-</item>
-<item historyLabel="TestArrayList.java" index="1">
-<position info="not_deleted" x="264" y="9"/>
-</item>
-<item historyLabel="TestArrayWithObject.java" index="3">
-<position info="not_deleted" x="415" y="0"/>
-</item>
-<item historyLabel="Team.java" index="4">
+<item historyLabel="Team.java" index="2">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="League.java" index="5">
+<item historyLabel="TestTeamAndLeague.java" index="0">
+<position info="not_deleted" x="513" y="0"/>
+</item>
+<item historyLabel="TestTeamAndLeague.java" index="0">
+<position info="not_deleted" x="471" y="0"/>
+</item>
+<item historyLabel="TestTeamAndLeague.java" index="0">
+<position info="not_deleted" x="517" y="0"/>
+</item>
+<item historyLabel="TestTeamAndLeague.java" index="0">
+<position info="not_deleted" x="343" y="0"/>
+</item>
+<item historyLabel="Team.java" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="TestTeamAndLeague.java" index="0">
+<position info="not_deleted" x="343" y="0"/>
+</item>
+<item historyLabel="TestTeamAndLeague.java" index="0">
+<position info="not_deleted" x="312" y="0"/>
+</item>
+<item historyLabel="TestTeamAndLeague.java" index="0">
+<position info="not_deleted" x="311" y="0"/>
+</item>
+<item historyLabel="TestTeamAndLeague.java" index="0">
+<position info="not_deleted" x="343" y="0"/>
+</item>
+<item historyLabel="TestTeamAndLeague.java" index="0">
+<position info="not_deleted" x="300" y="4"/>
+</item>
+<item historyLabel="TestTeamAndLeague.java" index="0">
 <position/>
 </item>
-<item historyLabel="Team.java" index="4">
-<position info="not_deleted" x="884" y="0"/>
+<item historyLabel="TestTeamAndLeague.java" index="0">
+<position info="not_deleted" x="517" y="0"/>
 </item>
-<item historyLabel="League.java" index="5">
-<position/>
+<item historyLabel="TestTeamAndLeague.java" index="0">
+<position info="not_deleted" x="440" y="0"/>
 </item>
-<item historyLabel="Team.java" index="4">
-<position info="not_deleted" x="878" y="0"/>
+<item historyLabel="League.java" index="1">
+<position info="not_deleted" x="490" y="0"/>
 </item>
-<item historyLabel="League.java" index="5">
-<position info="not_deleted" x="63" y="0"/>
+<item historyLabel="TestTeamAndLeague.java" index="0">
+<position info="not_deleted" x="440" y="0"/>
 </item>
-<item historyLabel="Team.java" index="4">
-<position info="not_deleted" x="42" y="4"/>
+<item historyLabel="TestTeamAndLeague.java" index="0">
+<position info="not_deleted" x="510" y="0"/>
 </item>
-<item historyLabel="League.java" index="5">
-<position info="not_deleted" x="128" y="0"/>
+<item historyLabel="TestTeamAndLeague.java" index="0">
+<position info="not_deleted" x="206" y="9"/>
 </item>
-<item historyLabel="Team.java" index="4">
-<position info="not_deleted" x="320" y="0"/>
+<item historyLabel="TestTeamAndLeague.java" index="0">
+<position info="not_deleted" x="514" y="0"/>
 </item>
-<item historyLabel="League.java" index="5">
-<position info="not_deleted" x="88" y="0"/>
+<item historyLabel="TestTeamAndLeague.java" index="0">
+<position info="not_deleted" x="237" y="9"/>
 </item>
-<item historyLabel="Team.java" index="4">
-<position info="not_deleted" x="320" y="0"/>
+<item historyLabel="TestTeamAndLeague.java" index="0">
+<position info="not_deleted" x="360" y="0"/>
 </item>
-<item historyLabel="League.java" index="5">
-<position info="not_deleted" x="88" y="0"/>
+<item historyLabel="TestTeamAndLeague.java" index="0">
+<position info="not_deleted" x="398" y="0"/>
 </item>
-<item historyLabel="League.java" index="5">
-<position info="not_deleted" x="726" y="0"/>
+<item historyLabel="TestTeamAndLeague.java" index="0">
+<position info="not_deleted" x="397" y="0"/>
 </item>
-<item historyLabel="League.java" index="5">
-<position info="not_deleted" x="730" y="0"/>
+<item historyLabel="TestTeamAndLeague.java" index="0">
+<position info="not_deleted" x="440" y="0"/>
 </item>
-<item historyLabel="Team.java" index="4">
-<position info="not_deleted" x="320" y="0"/>
+<item historyLabel="TestTeamAndLeague.java" index="0">
+<position info="not_deleted" x="352" y="3"/>
 </item>
-<item historyLabel="Team.java" index="4">
-<position info="not_deleted" x="177" y="10"/>
+<item historyLabel="TestTeamAndLeague.java" index="0">
+<position info="not_deleted" x="434" y="0"/>
 </item>
-<item historyLabel="League.java" index="5">
-<position info="not_deleted" x="274" y="0"/>
+<item historyLabel="League.java" index="1">
+<position info="not_deleted" x="267" y="0"/>
 </item>
-<item historyLabel="Team.java" index="4">
-<position info="not_deleted" x="177" y="10"/>
+<item historyLabel="TestTeamAndLeague.java" index="0">
+<position info="not_deleted" x="434" y="0"/>
 </item>
-<item historyLabel="Team.java" index="4">
-<position info="not_deleted" x="219" y="0"/>
+<item historyLabel="TestTeamAndLeague.java" index="0">
+<position info="not_deleted" x="434" y="0"/>
 </item>
-<item historyLabel="Team.java" index="4">
-<position info="not_deleted" x="883" y="0"/>
+<item historyLabel="League.java" index="1">
+<position info="not_deleted" x="267" y="0"/>
 </item>
-<item historyLabel="League.java" index="5">
-<position info="not_deleted" x="274" y="0"/>
+<item historyLabel="Team.java" index="2">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Team.java" index="4">
-<position info="not_deleted" x="238" y="0"/>
+<item historyLabel="TestTeamAndLeague.java" index="0">
+<position info="not_deleted" x="471" y="0"/>
 </item>
-<item historyLabel="League.java" index="5">
-<position info="not_deleted" x="274" y="0"/>
+<item historyLabel="Team.java" index="2">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Team.java" index="4">
-<position info="not_deleted" x="236" y="0"/>
+<item historyLabel="TestTeamAndLeague.java" index="0">
+<position info="not_deleted" x="471" y="0"/>
 </item>
-<item historyLabel="League.java" index="5">
-<position info="not_deleted" x="274" y="0"/>
+<item historyLabel="TestTeamAndLeague.java" index="0">
+<position info="not_deleted" x="279" y="0"/>
 </item>
-<item historyLabel="League.java" index="5">
-<position info="not_deleted" x="188" y="0"/>
+<item historyLabel="TestTeamAndLeague.java" index="0">
+<position info="not_deleted" x="343" y="0"/>
 </item>
-<item historyLabel="League.java" index="5">
-<position info="not_deleted" x="258" y="0"/>
+<item historyLabel="TestTeamAndLeague.java" index="0">
+<position info="not_deleted" x="274" y="5"/>
 </item>
-<item historyLabel="League.java" index="5">
-<position info="not_deleted" x="113" y="0"/>
+<item historyLabel="TestTeamAndLeague.java" index="0">
+<position info="not_deleted" x="335" y="0"/>
 </item>
-<item historyLabel="Team.java" index="4">
-<position info="not_deleted" x="236" y="0"/>
+<item historyLabel="TestTeamAndLeague.java" index="0">
+<position info="not_deleted" x="434" y="0"/>
 </item>
-<item historyLabel="Team.java" index="4">
-<position info="not_deleted" x="318" y="0"/>
+<item historyLabel="TestTeamAndLeague.java" index="0">
+<position info="not_deleted" x="513" y="0"/>
 </item>
-<item historyLabel="League.java" index="5">
-<position info="not_deleted" x="81" y="0"/>
+<item historyLabel="League.java" index="1">
+<position info="not_deleted" x="151" y="0"/>
 </item>
-<item active="true" historyLabel="Team.java" index="4">
-<position info="not_deleted" x="318" y="0"/>
+<item historyLabel="Team.java" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="League.java" index="1">
+<position info="not_deleted" x="151" y="0"/>
+</item>
+<item historyLabel="League.java" index="1">
+<position info="not_deleted" x="698" y="0"/>
+</item>
+<item historyLabel="Team.java" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="League.java" index="1">
+<position info="not_deleted" x="698" y="0"/>
+</item>
+<item historyLabel="League.java" index="1">
+<position info="not_deleted" x="668" y="0"/>
+</item>
+<item historyLabel="League.java" index="1">
+<position info="not_deleted" x="670" y="0"/>
+</item>
+<item active="true" historyLabel="TestTeamAndLeague.java" index="0">
+<position info="not_deleted" x="513" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -468,11 +466,26 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Team.java" tooltip="LeagueGame/src/lv/kristine/module/Team.java">
+<persistable path="/LeagueGame/src/lv/kristine/module/Team.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="League.java" tooltip="LeagueGame/src/lv/kristine/module/League.java">
 <persistable path="/LeagueGame/src/lv/kristine/module/League.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Team.java" tooltip="LeagueGame/src/lv/kristine/module/Team.java">
-<persistable path="/LeagueGame/src/lv/kristine/module/Team.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestTeamAndLeague.java" tooltip="LeagueGame/src/lv/kristine/test/TestTeamAndLeague.java">
+<persistable path="/LeagueGame/src/lv/kristine/test/TestTeamAndLeague.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestThrow.java" tooltip="lecture12/src/lv/kristine/TestThrow.java">
+<persistable path="/lecture12/src/lv/kristine/TestThrow.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestExceptionHandling.java" tooltip="lecture12/src/lv/kristine/TestExceptionHandling.java">
+<persistable path="/lecture12/src/lv/kristine/TestExceptionHandling.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestDateJava.java" tooltip="lecture12/src/lv/kristine/TestDateJava.java">
+<persistable path="/lecture12/src/lv/kristine/TestDateJava.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestRegex.java" tooltip="lecture12/src/lv/kristine/TestRegex.java">
+<persistable path="/lecture12/src/lv/kristine/TestRegex.java"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestArrayWithObject.java" tooltip="lecture11/src/lv/kristine/TestArrayWithObject.java">
 <persistable path="/lecture11/src/lv/kristine/TestArrayWithObject.java"/>
@@ -497,21 +510,6 @@
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Person.java" tooltip="lecture9/src/lv/kristine/user/Person.java">
 <persistable path="/lecture9/src/lv/kristine/user/Person.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestPerson.java" tooltip="lecture9/src/lv/kristine/TestPerson.java">
-<persistable path="/lecture9/src/lv/kristine/TestPerson.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Triangle.java" tooltip="lecture10/src/lv/kristine/interfaces/Triangle.java">
-<persistable path="/lecture10/src/lv/kristine/interfaces/Triangle.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Rectangle.java" tooltip="lecture10/src/lv/kristine/interfaces/Rectangle.java">
-<persistable path="/lecture10/src/lv/kristine/interfaces/Rectangle.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Shape.java" tooltip="lecture10/src/lv/kristine/interfaces/Shape.java">
-<persistable path="/lecture10/src/lv/kristine/interfaces/Shape.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestInterface.java" tooltip="lecture10/src/lv/kristine/TestInterface.java">
-<persistable path="/lecture10/src/lv/kristine/TestInterface.java"/>
 </file>
 </mruList>
 </workbench>
