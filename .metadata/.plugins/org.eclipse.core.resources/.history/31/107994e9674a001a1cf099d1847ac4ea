@@ -1,0 +1,17 @@
+package lv.kristine.inputoutput;
+
+import java.io.File;
+
+public class TestCreateAndWrite {
+
+	public static void main(String[] args) throws Exception{
+		File fileObj =new File ("newfile.txt");
+		if(fileObj.createNewFile()){
+			System.out.println("File created "+fileObj.getName());
+		}else{
+			System.out.println("File exists");
+		}
+
+	}
+
+}

@@ -1,0 +1,22 @@
+package lv.kristine.inputoutput;
+
+import java.io.File;
+import java.io.FileWriter;
+
+public class TestCreateAndWrite {
+
+	public static void main(String[] args) throws Exception{
+		File fileObj =new File ("newfile.txt");
+		FileWriter fw = new FileWriter(fileObj);
+		fw.write("vai šis strādā?");
+		fw.close();
+		
+//		if(fileObj.createNewFile()){
+//			System.out.println("File created "+fileObj.getName());
+//		}else{
+//			System.out.println("File exists");
+//		}
+		
+	}
+
+}

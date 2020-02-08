@@ -1,0 +1,13 @@
+package lv.kristine.inputoutput;
+
+public class TestChangeString {
+
+	
+	public static void main(String[] args) {
+		String defaultStr = "Hello user userName";
+		String lastString = defaultStr.replace("userName", "");
+		
+		System.out.println(lastString +"Kristine");
+	}
+
+}
