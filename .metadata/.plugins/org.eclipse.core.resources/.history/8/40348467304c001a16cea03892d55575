@@ -1,0 +1,59 @@
+package lv.kristine.module;
+
+import java.util.ArrayList;
+
+public class League {
+
+
+	
+	private String nameOfleague;
+	public ArrayList <Team> nameOfTeams;
+	
+	public League (String leagueName){
+		this.nameOfleague =leagueName;
+		this.nameOfTeams= new ArrayList<>();
+		
+	}
+	
+	
+	public String getNameOfleague() {
+		return nameOfleague;
+	}
+	public void setNameOfleague(String nameOfleague) {
+		this.nameOfleague = nameOfleague;
+	}
+	public ArrayList<Team> getNameOfTeams() {
+		return nameOfTeams;
+	}
+	public void setNameOfTeams(ArrayList<Team> nameOfTeams) {
+		this.nameOfTeams = nameOfTeams;
+	}
+	
+	public void recordWinAndLoss(Team winner, Team loser){
+		int i = 0;
+		
+		winner.setWins(i++);
+		loser.setLosses(i++);
+		
+		
+	}
+	
+	
+	public int recordTie(Team teamA, Team teamB ){
+		teamA.ties++;
+		teamB.ties++;
+		
+	}
+	
+	@Override
+	public String toString() {
+		return "League [nameOfleague=" + nameOfleague + ", nameOfTeams="
+				+ nameOfTeams + "]";
+	}
+	
+	
+	
+	
+	
+	
+}

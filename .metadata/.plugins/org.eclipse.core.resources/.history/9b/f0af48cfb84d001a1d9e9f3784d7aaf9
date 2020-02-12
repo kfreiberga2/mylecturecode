@@ -1,0 +1,13 @@
+package lv.kristine.repeatJavaClassOOP;
+
+public class TestOOP {
+
+	public static void main (String []args){
+		MyClass newObj = new MyClass();
+		
+		
+		
+		
+	}
+	
+}

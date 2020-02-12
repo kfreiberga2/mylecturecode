@@ -3,23 +3,26 @@ package lv.kristine.module;
 public class Team {
 
 	
-	private String name;
-	private int wins;
-	private int losses;
-	private int ties;
+	public String name;
+	public int wins;
+	public int losses;
+	public int ties;
 	
-	public Team (String name){
-	this.name = "nameofTeam";
+	public Team (String nameOfTeam ){
+	this.name = nameOfTeam;
 	this.wins=0;
 	this.losses=0;
 	this.ties=0;
 	}
 	
-	
-	
+		
 	public int gamesPlayed(){
 		return this.wins+ this.ties+this.losses;
 		
+	}
+	
+	public int totalPoints(){
+		return (this.wins*2 + this.losses);
 	}
 	
 	
@@ -49,11 +52,11 @@ public class Team {
 	}
 
 
-
+	
 
 	@Override
 	public String toString() {
-		return "Team [name=" + name + ", wins=" + wins + ", losses=" + losses
+		return "\n Team [name=" + name + ", wins=" + wins + ", losses=" + losses
 				+ ", ties=" + ties + "]";
 	}
 	

@@ -1,0 +1,39 @@
+package lv.kristine.test;
+
+import java.util.ArrayList;
+
+import lv.kristine.module.League;
+import lv.kristine.module.Team;
+
+public class TestTeamAndLeague {
+
+	
+	public static void main(String[] args) {
+		
+		ArrayList <Team> khlTeam = new ArrayList<>();
+		Team ska = new Team("SKA");
+		Team cska = new Team ("CSKA");
+		Team dinamo = new Team ("DINAMO");
+		
+		System.out.println();
+		
+		khlTeam.add(ska);
+		khlTeam.add(cska);
+		khlTeam.add(dinamo);
+		
+		
+		
+		//arr.add(cska);
+		
+		League khl = new League ("KHL");
+		
+		//khl.nameOfTeams.add(cska);
+		
+		
+		khl.recordWinAndLoss(ska, dinamo);
+		khl.setNameOfTeams(khlTeam);
+
+		System.out.println(khl.toString());
+	}
+
+}

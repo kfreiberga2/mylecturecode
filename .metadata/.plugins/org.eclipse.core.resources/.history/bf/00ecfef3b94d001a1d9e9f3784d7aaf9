@@ -1,0 +1,19 @@
+package lv.kristine.repeatJavaClassOOP;
+
+public class TestOOP {
+
+	public static void main (String [] args){
+		MyClass newObj = new MyClass();
+		
+		MyClass newObj2 = new MyClass();
+		
+		
+//		newObj.getClass();
+//		newObj.x=0;
+		System.out.println(newObj.equals(newObj2));
+		
+		
+		}
+		
+	
+}

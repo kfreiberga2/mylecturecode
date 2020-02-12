@@ -1,0 +1,17 @@
+package lv.kristine.repeatJavaClassOOP;
+
+public class MyClassMethods {
+	
+	static void myMethod(){
+		System.out.println("Hello World!");
+	}
+	
+	public String myStringMethod(){
+		myMethod();
+		return  "aa ";
+		
+	}
+	
+	
+	
+}
