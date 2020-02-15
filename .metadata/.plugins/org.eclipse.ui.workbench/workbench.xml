@@ -38,21 +38,21 @@
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestOOP.java" partName="TestOOP.java" path="/home/student/workspace/lecture14/src/lv/kristine/repeatJavaClassOOP/TestOOP.java" title="TestOOP.java" tooltip="lecture14/src/lv/kristine/repeatJavaClassOOP/TestOOP.java" workbook="DefaultEditorWorkbook">
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestOOP.java" partName="TestOOP.java" path="/home/student/workspace/lecture14/src/lv/kristine/repeatJavaClassOOP/TestOOP.java" title="TestOOP.java" tooltip="lecture14/src/lv/kristine/repeatJavaClassOOP/TestOOP.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture14/src/lv/kristine/repeatJavaClassOOP/TestOOP.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1977" selectionTopPixel="586"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1580" selectionTopPixel="601"/>
 </editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="InterfaceClass.java" partName="InterfaceClass.java" path="/home/student/workspace/lecture14/src/lv/kristine/repeatJavaClassOOP/InterfaceClass.java" title="InterfaceClass.java" tooltip="lecture14/src/lv/kristine/repeatJavaClassOOP/InterfaceClass.java" workbook="DefaultEditorWorkbook">
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="InterfaceClass.java" partName="InterfaceClass.java" path="/home/student/workspace/lecture14/src/lv/kristine/repeatJavaClassOOP/InterfaceClass.java" title="InterfaceClass.java" tooltip="lecture14/src/lv/kristine/repeatJavaClassOOP/InterfaceClass.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture14/src/lv/kristine/repeatJavaClassOOP/InterfaceClass.java"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="142" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AbstractClass.java" partName="AbstractClass.java" path="/home/student/workspace/lecture14/src/lv/kristine/repeatJavaClassOOP/AbstractClass.java" title="AbstractClass.java" tooltip="lecture14/src/lv/kristine/repeatJavaClassOOP/AbstractClass.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture14/src/lv/kristine/repeatJavaClassOOP/AbstractClass.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="13" selectionOffset="56" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="178" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ClasseExtendsAbstractClass.java" partName="ClasseExtendsAbstractClass.java" path="/home/student/workspace/lecture14/src/lv/kristine/repeatJavaClassOOP/ClasseExtendsAbstractClass.java" title="ClasseExtendsAbstractClass.java" tooltip="lecture14/src/lv/kristine/repeatJavaClassOOP/ClasseExtendsAbstractClass.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture14/src/lv/kristine/repeatJavaClassOOP/ClasseExtendsAbstractClass.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="26" selectionOffset="54" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="204" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views>
@@ -90,10 +90,6 @@
 </view>
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
-<expanded>
-<category IMemento.internal.id="Errors"/>
-<category IMemento.internal.id="Warnings"/>
-</expanded>
 <columnWidths org.eclipse.ui.ide.locationField="105" org.eclipse.ui.ide.markerType="575" org.eclipse.ui.ide.pathField="140" org.eclipse.ui.ide.resourceField="105" org.eclipse.ui.ide.severityAndDescriptionField="350"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
@@ -396,32 +392,16 @@
 <navigationHistory>
 <editors>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture14/src/lv/kristine/repeatJavaClassOOP/TestOOP.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture14/src/lv/kristine/repeatJavaClassOOP/ImplementInterface.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture14/src/lv/kristine/repeatJavaClassOOP/MyEnums.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture14/src/lv/kristine/repeatJavaClassOOP/Friuts.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture14/src/lv/kristine/repeatJavaClassOOP/Fruits.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture14/src/lv/kristine/repeatJavaClassOOP/AbstractClass.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture14/src/lv/kristine/repeatJavaClassOOP/ClasseExtendsAbstractClass.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture14/src/lv/kristine/repeatJavaClassOOP/InterfaceClass.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture14/src/lv/kristine/repeatJavaClassOOP/TestOOP.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture14/src/lv/kristine/repeatJavaClassOOP/ClasseExtendsAbstractClass.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture14/src/lv/kristine/repeatJavaClassOOP/AbstractClass.java"/>
 </editors>
-<item historyLabel="TestOOP.java" index="0">
-<position/>
-</item>
-<item historyLabel="ImplementInterface.java" index="1">
-<position info="not_deleted" x="242" y="0"/>
-</item>
-<item historyLabel="TestOOP.java" index="0">
-<position info="not_deleted" x="1981" y="0"/>
-</item>
-<item historyLabel="ImplementInterface.java" index="1">
-<position info="not_deleted" x="251" y="0"/>
-</item>
-<item historyLabel="TestOOP.java" index="0">
-<position/>
-</item>
-<item historyLabel="MyEnums.java" index="2">
-<position info="not_deleted" x="53" y="7"/>
-</item>
 <item historyLabel="TestOOP.java" index="0">
 <position/>
 </item>
@@ -437,25 +417,25 @@
 <item historyLabel="TestOOP.java" index="0">
 <position info="not_deleted" x="1983" y="0"/>
 </item>
-<item historyLabel="MyEnums.java" index="2">
+<item historyLabel="MyEnums.java" index="1">
 <position info="not_deleted" x="53" y="7"/>
 </item>
-<item historyLabel="MyEnums.java" index="2">
+<item historyLabel="MyEnums.java" index="1">
 <position/>
 </item>
-<item historyLabel="MyEnums.java" index="2">
+<item historyLabel="MyEnums.java" index="1">
 <position/>
 </item>
-<item historyLabel="Friuts.java" index="3">
+<item historyLabel="Friuts.java" index="2">
 <position info="not_deleted" x="53" y="6"/>
 </item>
-<item historyLabel="Friuts.java" index="3">
+<item historyLabel="Friuts.java" index="2">
 <position/>
 </item>
-<item historyLabel="Friuts.java" index="3">
+<item historyLabel="Friuts.java" index="2">
 <position/>
 </item>
-<item historyLabel="Fruits.java" index="4">
+<item historyLabel="Fruits.java" index="3">
 <position info="not_deleted" x="84" y="0"/>
 </item>
 <item historyLabel="TestOOP.java" index="0">
@@ -464,19 +444,19 @@
 <item historyLabel="TestOOP.java" index="0">
 <position info="not_deleted" x="1577" y="0"/>
 </item>
-<item historyLabel="Fruits.java" index="4">
+<item historyLabel="Fruits.java" index="3">
 <position info="not_deleted" x="53" y="6"/>
 </item>
 <item historyLabel="TestOOP.java" index="0">
 <position info="not_deleted" x="1577" y="0"/>
 </item>
-<item historyLabel="Fruits.java" index="4">
+<item historyLabel="Fruits.java" index="3">
 <position info="not_deleted" x="53" y="6"/>
 </item>
 <item historyLabel="TestOOP.java" index="0">
 <position info="not_deleted" x="1593" y="0"/>
 </item>
-<item historyLabel="Fruits.java" index="4">
+<item historyLabel="Fruits.java" index="3">
 <position info="not_deleted" x="89" y="0"/>
 </item>
 <item historyLabel="TestOOP.java" index="0">
@@ -488,34 +468,34 @@
 <item historyLabel="TestOOP.java" index="0">
 <position info="not_deleted" x="1226" y="0"/>
 </item>
-<item historyLabel="AbstractClass.java" index="5">
+<item historyLabel="AbstractClass.java" index="4">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="AbstractClass.java" index="5">
+<item historyLabel="AbstractClass.java" index="4">
 <position info="not_deleted" x="111" y="0"/>
 </item>
-<item historyLabel="AbstractClass.java" index="5">
+<item historyLabel="AbstractClass.java" index="4">
 <position info="not_deleted" x="170" y="0"/>
 </item>
-<item historyLabel="ClasseExtendsAbstractClass.java" index="6">
+<item historyLabel="ClasseExtendsAbstractClass.java" index="5">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="AbstractClass.java" index="5">
+<item historyLabel="AbstractClass.java" index="4">
 <position info="not_deleted" x="56" y="13"/>
 </item>
-<item historyLabel="ClasseExtendsAbstractClass.java" index="6">
+<item historyLabel="ClasseExtendsAbstractClass.java" index="5">
 <position info="not_deleted" x="196" y="0"/>
 </item>
-<item historyLabel="AbstractClass.java" index="5">
+<item historyLabel="AbstractClass.java" index="4">
 <position info="not_deleted" x="56" y="13"/>
 </item>
-<item historyLabel="ClasseExtendsAbstractClass.java" index="6">
+<item historyLabel="ClasseExtendsAbstractClass.java" index="5">
 <position info="not_deleted" x="201" y="0"/>
 </item>
 <item historyLabel="TestOOP.java" index="0">
 <position info="not_deleted" x="1977" y="0"/>
 </item>
-<item historyLabel="ClasseExtendsAbstractClass.java" index="6">
+<item historyLabel="ClasseExtendsAbstractClass.java" index="5">
 <position info="not_deleted" x="54" y="26"/>
 </item>
 <item historyLabel="TestOOP.java" index="0">
@@ -524,35 +504,53 @@
 <item historyLabel="TestOOP.java" index="0">
 <position info="not_deleted" x="1977" y="0"/>
 </item>
-<item historyLabel="AbstractClass.java" index="5">
+<item historyLabel="AbstractClass.java" index="4">
 <position info="not_deleted" x="56" y="13"/>
 </item>
-<item historyLabel="ClasseExtendsAbstractClass.java" index="6">
+<item historyLabel="ClasseExtendsAbstractClass.java" index="5">
 <position info="not_deleted" x="54" y="26"/>
 </item>
-<item historyLabel="AbstractClass.java" index="5">
+<item historyLabel="AbstractClass.java" index="4">
 <position info="not_deleted" x="56" y="13"/>
 </item>
 <item historyLabel="TestOOP.java" index="0">
 <position info="not_deleted" x="1977" y="0"/>
 </item>
-<item historyLabel="AbstractClass.java" index="5">
+<item historyLabel="AbstractClass.java" index="4">
 <position info="not_deleted" x="56" y="13"/>
 </item>
-<item historyLabel="ClasseExtendsAbstractClass.java" index="6">
+<item historyLabel="ClasseExtendsAbstractClass.java" index="5">
 <position info="not_deleted" x="54" y="26"/>
 </item>
-<item historyLabel="AbstractClass.java" index="5">
+<item historyLabel="AbstractClass.java" index="4">
 <position info="not_deleted" x="56" y="13"/>
 </item>
-<item historyLabel="ClasseExtendsAbstractClass.java" index="6">
+<item historyLabel="ClasseExtendsAbstractClass.java" index="5">
 <position info="not_deleted" x="54" y="26"/>
 </item>
-<item historyLabel="AbstractClass.java" index="5">
+<item historyLabel="AbstractClass.java" index="4">
 <position info="not_deleted" x="56" y="13"/>
 </item>
-<item active="true" historyLabel="InterfaceClass.java" index="7">
+<item historyLabel="InterfaceClass.java" index="6">
 <position info="not_deleted" x="142" y="0"/>
+</item>
+<item historyLabel="TestOOP.java" index="7">
+<position info="not_deleted" x="1977" y="0"/>
+</item>
+<item historyLabel="ClasseExtendsAbstractClass.java" index="8">
+<position info="not_deleted" x="54" y="26"/>
+</item>
+<item historyLabel="AbstractClass.java" index="9">
+<position info="not_deleted" x="56" y="13"/>
+</item>
+<item historyLabel="ClasseExtendsAbstractClass.java" index="8">
+<position info="not_deleted" x="204" y="0"/>
+</item>
+<item historyLabel="AbstractClass.java" index="9">
+<position info="not_deleted" x="178" y="0"/>
+</item>
+<item active="true" historyLabel="TestOOP.java" index="7">
+<position info="not_deleted" x="1980" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -560,13 +558,6 @@
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
-<trimArea IMemento.internal.id="16384">
-<trimItem IMemento.internal.id="left"/>
-</trimArea>
-<trimArea IMemento.internal.id="131072">
-<trimItem IMemento.internal.id="org.eclipse.ui.editorss"/>
-<trimItem IMemento.internal.id="right"/>
-</trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
 </trimArea>
