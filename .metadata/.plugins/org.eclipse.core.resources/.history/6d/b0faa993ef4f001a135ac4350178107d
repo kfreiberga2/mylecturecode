@@ -1,0 +1,22 @@
+package lv.kristine.inputoutput;
+
+public class PictureTest {
+
+	
+	
+		    public static void main(String[] args) {
+		     try{
+		          BufferedImage image = new BufferedImage ("puke.png");
+//		          image.getGraphics().drawLine(1, 1, image.getWidth()-1, image.getHeight()-1);
+//		          image.getGraphics().drawLine(1, image.getHeight()-1, image.getWidth()-1, 1);
+//
+//		          ImageIO.write(image, "png", new File("/home/student/workspace/lecture13/puke.png"));
+		     }
+		     catch (IOException e){
+		         e.printStackTrace();
+		     }
+		    }
+		}
+	
+
+

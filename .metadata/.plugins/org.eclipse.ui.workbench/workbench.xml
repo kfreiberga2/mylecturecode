@@ -34,25 +34,35 @@
 <part id="1"/>
 <part id="2"/>
 <part id="3"/>
+<part id="4"/>
+<part id="5"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestOOP.java" partName="TestOOP.java" path="/home/student/workspace/lecture14/src/lv/kristine/repeatJavaClassOOP/TestOOP.java" title="TestOOP.java" tooltip="lecture14/src/lv/kristine/repeatJavaClassOOP/TestOOP.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture14/src/lv/kristine/repeatJavaClassOOP/TestOOP.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1580" selectionTopPixel="601"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Conversate.java" partName="Conversate.java" path="/home/student/workspace/chatbot/src/Conversate.java" title="Conversate.java" tooltip="chatbot/src/Conversate.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/chatbot/src/Conversate.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="390" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="InterfaceClass.java" partName="InterfaceClass.java" path="/home/student/workspace/lecture14/src/lv/kristine/repeatJavaClassOOP/InterfaceClass.java" title="InterfaceClass.java" tooltip="lecture14/src/lv/kristine/repeatJavaClassOOP/InterfaceClass.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture14/src/lv/kristine/repeatJavaClassOOP/InterfaceClass.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="142" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LoopTest.java" partName="LoopTest.java" path="/home/student/workspace/chatbot/src/LoopTest.java" title="LoopTest.java" tooltip="chatbot/src/LoopTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/chatbot/src/LoopTest.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="613" selectionOffset="0" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AbstractClass.java" partName="AbstractClass.java" path="/home/student/workspace/lecture14/src/lv/kristine/repeatJavaClassOOP/AbstractClass.java" title="AbstractClass.java" tooltip="lecture14/src/lv/kristine/repeatJavaClassOOP/AbstractClass.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture14/src/lv/kristine/repeatJavaClassOOP/AbstractClass.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="178" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RobotChat.java" partName="RobotChat.java" path="/home/student/workspace/chatbot/src/RobotChat.java" title="RobotChat.java" tooltip="chatbot/src/RobotChat.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/chatbot/src/RobotChat.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="232" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ClasseExtendsAbstractClass.java" partName="ClasseExtendsAbstractClass.java" path="/home/student/workspace/lecture14/src/lv/kristine/repeatJavaClassOOP/ClasseExtendsAbstractClass.java" title="ClasseExtendsAbstractClass.java" tooltip="lecture14/src/lv/kristine/repeatJavaClassOOP/ClasseExtendsAbstractClass.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture14/src/lv/kristine/repeatJavaClassOOP/ClasseExtendsAbstractClass.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="204" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ChatBot2.java" partName="ChatBot2.java" path="/home/student/workspace/chatbot/src/ChatBot2.java" title="ChatBot2.java" tooltip="chatbot/src/ChatBot2.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/chatbot/src/ChatBot2.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="269" selectionTopPixel="61"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MoodAnswer.java" partName="MoodAnswer.java" path="/home/student/workspace/chatbot/src/MoodAnswer.java" title="MoodAnswer.java" tooltip="chatbot/src/MoodAnswer.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/chatbot/src/MoodAnswer.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="587" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestThrow.java" partName="TestThrow.java" path="/home/student/workspace/lecture12/src/lv/kristine/TestThrow.java" title="TestThrow.java" tooltip="lecture12/src/lv/kristine/TestThrow.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture12/src/lv/kristine/TestThrow.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="285" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views>
@@ -90,6 +100,10 @@
 </view>
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<expanded>
+<category IMemento.internal.id="Errors"/>
+<category IMemento.internal.id="Warnings"/>
+</expanded>
 <columnWidths org.eclipse.ui.ide.locationField="105" org.eclipse.ui.ide.markerType="575" org.eclipse.ui.ide.pathField="140" org.eclipse.ui.ide.resourceField="105" org.eclipse.ui.ide.severityAndDescriptionField="350"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
@@ -391,166 +405,162 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture14/src/lv/kristine/repeatJavaClassOOP/TestOOP.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture14/src/lv/kristine/repeatJavaClassOOP/MyEnums.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture14/src/lv/kristine/repeatJavaClassOOP/Friuts.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture14/src/lv/kristine/repeatJavaClassOOP/Fruits.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture14/src/lv/kristine/repeatJavaClassOOP/AbstractClass.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture14/src/lv/kristine/repeatJavaClassOOP/ClasseExtendsAbstractClass.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture14/src/lv/kristine/repeatJavaClassOOP/InterfaceClass.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture14/src/lv/kristine/repeatJavaClassOOP/TestOOP.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture14/src/lv/kristine/repeatJavaClassOOP/ClasseExtendsAbstractClass.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture14/src/lv/kristine/repeatJavaClassOOP/AbstractClass.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/chatbot/src/ChatBot2.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/chatbot/src/MoodAnswer.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture12/src/lv/kristine/TestThrow.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture12/src/lv/kristine/TestRegex.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture12/src/lv/kristine/TestExceptionHandling.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture12/src/lv/kristine/TestDateJava.java"/>
 </editors>
-<item historyLabel="TestOOP.java" index="0">
-<position/>
+<item historyLabel="ChatBot2.java" index="0">
+<position info="not_deleted" x="908" y="0"/>
 </item>
-<item historyLabel="TestOOP.java" index="0">
-<position info="not_deleted" x="1502" y="0"/>
+<item historyLabel="TestThrow.java" index="2">
+<position info="not_deleted" x="285" y="0"/>
 </item>
-<item historyLabel="TestOOP.java" index="0">
-<position info="not_deleted" x="1981" y="0"/>
+<item historyLabel="MoodAnswer.java" index="1">
+<position info="not_deleted" x="720" y="0"/>
 </item>
-<item historyLabel="TestOOP.java" index="0">
-<position info="not_deleted" x="1502" y="0"/>
+<item historyLabel="TestThrow.java" index="2">
+<position info="not_deleted" x="285" y="0"/>
 </item>
-<item historyLabel="TestOOP.java" index="0">
-<position info="not_deleted" x="1983" y="0"/>
+<item historyLabel="ChatBot2.java" index="0">
+<position info="not_deleted" x="908" y="0"/>
 </item>
-<item historyLabel="MyEnums.java" index="1">
-<position info="not_deleted" x="53" y="7"/>
+<item historyLabel="ChatBot2.java" index="0">
+<position info="not_deleted" x="370" y="0"/>
 </item>
-<item historyLabel="MyEnums.java" index="1">
-<position/>
+<item historyLabel="TestThrow.java" index="2">
+<position info="not_deleted" x="285" y="0"/>
 </item>
-<item historyLabel="MyEnums.java" index="1">
-<position/>
+<item historyLabel="MoodAnswer.java" index="1">
+<position info="not_deleted" x="720" y="0"/>
 </item>
-<item historyLabel="Friuts.java" index="2">
-<position info="not_deleted" x="53" y="6"/>
+<item historyLabel="ChatBot2.java" index="0">
+<position info="not_deleted" x="912" y="0"/>
 </item>
-<item historyLabel="Friuts.java" index="2">
-<position/>
+<item historyLabel="TestThrow.java" index="2">
+<position info="not_deleted" x="285" y="0"/>
 </item>
-<item historyLabel="Friuts.java" index="2">
-<position/>
+<item historyLabel="MoodAnswer.java" index="1">
+<position info="not_deleted" x="720" y="0"/>
 </item>
-<item historyLabel="Fruits.java" index="3">
-<position info="not_deleted" x="84" y="0"/>
+<item historyLabel="MoodAnswer.java" index="1">
+<position info="not_deleted" x="269" y="0"/>
 </item>
-<item historyLabel="TestOOP.java" index="0">
-<position info="not_deleted" x="1983" y="0"/>
+<item historyLabel="ChatBot2.java" index="0">
+<position info="not_deleted" x="368" y="0"/>
 </item>
-<item historyLabel="TestOOP.java" index="0">
-<position info="not_deleted" x="1577" y="0"/>
+<item historyLabel="TestThrow.java" index="2">
+<position info="not_deleted" x="285" y="0"/>
 </item>
-<item historyLabel="Fruits.java" index="3">
-<position info="not_deleted" x="53" y="6"/>
+<item historyLabel="MoodAnswer.java" index="1">
+<position info="not_deleted" x="720" y="0"/>
 </item>
-<item historyLabel="TestOOP.java" index="0">
-<position info="not_deleted" x="1577" y="0"/>
-</item>
-<item historyLabel="Fruits.java" index="3">
-<position info="not_deleted" x="53" y="6"/>
-</item>
-<item historyLabel="TestOOP.java" index="0">
-<position info="not_deleted" x="1593" y="0"/>
-</item>
-<item historyLabel="Fruits.java" index="3">
-<position info="not_deleted" x="89" y="0"/>
-</item>
-<item historyLabel="TestOOP.java" index="0">
-<position info="not_deleted" x="1593" y="0"/>
-</item>
-<item historyLabel="TestOOP.java" index="0">
-<position info="not_deleted" x="1739" y="0"/>
-</item>
-<item historyLabel="TestOOP.java" index="0">
-<position info="not_deleted" x="1226" y="0"/>
-</item>
-<item historyLabel="AbstractClass.java" index="4">
+<item historyLabel="TestRegex.java" index="3">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="AbstractClass.java" index="4">
-<position info="not_deleted" x="111" y="0"/>
-</item>
-<item historyLabel="AbstractClass.java" index="4">
-<position info="not_deleted" x="170" y="0"/>
-</item>
-<item historyLabel="ClasseExtendsAbstractClass.java" index="5">
+<item historyLabel="TestExceptionHandling.java" index="4">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="AbstractClass.java" index="4">
-<position info="not_deleted" x="56" y="13"/>
+<item historyLabel="TestDateJava.java" index="5">
+<position info="not_deleted" x="154" y="13"/>
 </item>
-<item historyLabel="ClasseExtendsAbstractClass.java" index="5">
-<position info="not_deleted" x="196" y="0"/>
+<item historyLabel="TestExceptionHandling.java" index="4">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="AbstractClass.java" index="4">
-<position info="not_deleted" x="56" y="13"/>
+<item historyLabel="TestRegex.java" index="3">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="ClasseExtendsAbstractClass.java" index="5">
-<position info="not_deleted" x="201" y="0"/>
+<item historyLabel="TestExceptionHandling.java" index="4">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="TestOOP.java" index="0">
-<position info="not_deleted" x="1977" y="0"/>
+<item historyLabel="TestDateJava.java" index="5">
+<position info="not_deleted" x="154" y="13"/>
 </item>
-<item historyLabel="ClasseExtendsAbstractClass.java" index="5">
-<position info="not_deleted" x="54" y="26"/>
+<item historyLabel="TestExceptionHandling.java" index="4">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="TestOOP.java" index="0">
-<position info="not_deleted" x="1977" y="0"/>
+<item historyLabel="TestDateJava.java" index="5">
+<position info="not_deleted" x="154" y="13"/>
 </item>
-<item historyLabel="TestOOP.java" index="0">
-<position info="not_deleted" x="1977" y="0"/>
+<item historyLabel="TestRegex.java" index="3">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="AbstractClass.java" index="4">
-<position info="not_deleted" x="56" y="13"/>
+<item historyLabel="MoodAnswer.java" index="1">
+<position info="not_deleted" x="720" y="0"/>
 </item>
-<item historyLabel="ClasseExtendsAbstractClass.java" index="5">
-<position info="not_deleted" x="54" y="26"/>
+<item historyLabel="ChatBot2.java" index="0">
+<position info="not_deleted" x="368" y="0"/>
 </item>
-<item historyLabel="AbstractClass.java" index="4">
-<position info="not_deleted" x="56" y="13"/>
+<item historyLabel="MoodAnswer.java" index="1">
+<position info="not_deleted" x="720" y="0"/>
 </item>
-<item historyLabel="TestOOP.java" index="0">
-<position info="not_deleted" x="1977" y="0"/>
+<item historyLabel="ChatBot2.java" index="0">
+<position info="not_deleted" x="908" y="0"/>
 </item>
-<item historyLabel="AbstractClass.java" index="4">
-<position info="not_deleted" x="56" y="13"/>
+<item historyLabel="MoodAnswer.java" index="1">
+<position info="not_deleted" x="47" y="7"/>
 </item>
-<item historyLabel="ClasseExtendsAbstractClass.java" index="5">
-<position info="not_deleted" x="54" y="26"/>
+<item historyLabel="ChatBot2.java" index="0">
+<position info="not_deleted" x="908" y="0"/>
 </item>
-<item historyLabel="AbstractClass.java" index="4">
-<position info="not_deleted" x="56" y="13"/>
+<item historyLabel="ChatBot2.java" index="0">
+<position info="not_deleted" x="912" y="0"/>
 </item>
-<item historyLabel="ClasseExtendsAbstractClass.java" index="5">
-<position info="not_deleted" x="54" y="26"/>
+<item historyLabel="ChatBot2.java" index="0">
+<position info="not_deleted" x="908" y="0"/>
 </item>
-<item historyLabel="AbstractClass.java" index="4">
-<position info="not_deleted" x="56" y="13"/>
+<item historyLabel="MoodAnswer.java" index="1">
+<position info="not_deleted" x="720" y="0"/>
 </item>
-<item historyLabel="InterfaceClass.java" index="6">
-<position info="not_deleted" x="142" y="0"/>
+<item historyLabel="ChatBot2.java" index="0">
+<position/>
 </item>
-<item historyLabel="TestOOP.java" index="7">
-<position info="not_deleted" x="1977" y="0"/>
+<item historyLabel="MoodAnswer.java" index="1">
+<position info="not_deleted" x="720" y="0"/>
 </item>
-<item historyLabel="ClasseExtendsAbstractClass.java" index="8">
-<position info="not_deleted" x="54" y="26"/>
+<item historyLabel="ChatBot2.java" index="0">
+<position info="not_deleted" x="860" y="0"/>
 </item>
-<item historyLabel="AbstractClass.java" index="9">
-<position info="not_deleted" x="56" y="13"/>
+<item historyLabel="MoodAnswer.java" index="1">
+<position info="not_deleted" x="720" y="0"/>
 </item>
-<item historyLabel="ClasseExtendsAbstractClass.java" index="8">
-<position info="not_deleted" x="204" y="0"/>
+<item historyLabel="ChatBot2.java" index="0">
+<position info="not_deleted" x="912" y="0"/>
 </item>
-<item historyLabel="AbstractClass.java" index="9">
-<position info="not_deleted" x="178" y="0"/>
+<item historyLabel="MoodAnswer.java" index="1">
+<position info="not_deleted" x="720" y="0"/>
 </item>
-<item active="true" historyLabel="TestOOP.java" index="7">
-<position info="not_deleted" x="1980" y="0"/>
+<item historyLabel="ChatBot2.java" index="0">
+<position info="not_deleted" x="912" y="0"/>
+</item>
+<item historyLabel="MoodAnswer.java" index="1">
+<position info="not_deleted" x="720" y="0"/>
+</item>
+<item historyLabel="ChatBot2.java" index="0">
+<position info="not_deleted" x="912" y="0"/>
+</item>
+<item historyLabel="MoodAnswer.java" index="1">
+<position info="not_deleted" x="303" y="0"/>
+</item>
+<item historyLabel="ChatBot2.java" index="0">
+<position info="not_deleted" x="655" y="174"/>
+</item>
+<item historyLabel="MoodAnswer.java" index="1">
+<position info="not_deleted" x="718" y="0"/>
+</item>
+<item historyLabel="ChatBot2.java" index="0">
+<position info="not_deleted" x="456" y="147"/>
+</item>
+<item historyLabel="MoodAnswer.java" index="1">
+<position info="not_deleted" x="718" y="0"/>
+</item>
+<item historyLabel="ChatBot2.java" index="0">
+<position info="not_deleted" x="269" y="0"/>
+</item>
+<item active="true" historyLabel="MoodAnswer.java" index="1">
+<position info="not_deleted" x="718" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -558,6 +568,12 @@
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
+<trimArea IMemento.internal.id="16384">
+<trimItem IMemento.internal.id="left"/>
+</trimArea>
+<trimArea IMemento.internal.id="131072">
+<trimItem IMemento.internal.id="right"/>
+</trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
 </trimArea>
@@ -565,54 +581,55 @@
 <trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
 <trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+<trimItem IMemento.internal.id="bottom"/>
 </trimArea>
 </trimLayout>
 </window>
 <mruList>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ClasseExtendsAbstractClass.java" tooltip="lecture14/src/lv/kristine/repeatJavaClassOOP/ClasseExtendsAbstractClass.java">
-<persistable path="/lecture14/src/lv/kristine/repeatJavaClassOOP/ClasseExtendsAbstractClass.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestDateJava.java" tooltip="lecture12/src/lv/kristine/TestDateJava.java">
+<persistable path="/lecture12/src/lv/kristine/TestDateJava.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AbstractClass.java" tooltip="lecture14/src/lv/kristine/repeatJavaClassOOP/AbstractClass.java">
-<persistable path="/lecture14/src/lv/kristine/repeatJavaClassOOP/AbstractClass.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestExceptionHandling.java" tooltip="lecture12/src/lv/kristine/TestExceptionHandling.java">
+<persistable path="/lecture12/src/lv/kristine/TestExceptionHandling.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MyEnums.java" tooltip="lecture14/src/lv/kristine/repeatJavaClassOOP/MyEnums.java">
-<persistable path="/lecture14/src/lv/kristine/repeatJavaClassOOP/MyEnums.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestRegex.java" tooltip="lecture12/src/lv/kristine/TestRegex.java">
+<persistable path="/lecture12/src/lv/kristine/TestRegex.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ImplementInterface.java" tooltip="lecture14/src/lv/kristine/repeatJavaClassOOP/ImplementInterface.java">
-<persistable path="/lecture14/src/lv/kristine/repeatJavaClassOOP/ImplementInterface.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestThrow.java" tooltip="lecture12/src/lv/kristine/TestThrow.java">
+<persistable path="/lecture12/src/lv/kristine/TestThrow.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="InterfaceClass.java" tooltip="lecture14/src/lv/kristine/repeatJavaClassOOP/InterfaceClass.java">
-<persistable path="/lecture14/src/lv/kristine/repeatJavaClassOOP/InterfaceClass.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ArraysInitialization.java" tooltip="lecture4/src/ArraysInitialization.java">
+<persistable path="/lecture4/src/ArraysInitialization.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EncapsClass.java" tooltip="lecture14/src/lv/kristine/repeatJavaClassOOP/EncapsClass.java">
-<persistable path="/lecture14/src/lv/kristine/repeatJavaClassOOP/EncapsClass.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ArraysAndLoop.java" tooltip="lecture4/src/ArraysAndLoop.java">
+<persistable path="/lecture4/src/ArraysAndLoop.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MyClassConstructor.java" tooltip="lecture14/src/lv/kristine/repeatJavaClassOOP/MyClassConstructor.java">
-<persistable path="/lecture14/src/lv/kristine/repeatJavaClassOOP/MyClassConstructor.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MyClassMethods.java" tooltip="lecture14/src/lv/kristine/repeatJavaClassOOP/MyClassMethods.java">
-<persistable path="/lecture14/src/lv/kristine/repeatJavaClassOOP/MyClassMethods.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestOOP.java" tooltip="lecture14/src/lv/kristine/repeatJavaClassOOP/TestOOP.java">
-<persistable path="/lecture14/src/lv/kristine/repeatJavaClassOOP/TestOOP.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MyClass.java" tooltip="lecture14/src/lv/kristine/repeatJavaClassOOP/MyClass.java">
-<persistable path="/lecture14/src/lv/kristine/repeatJavaClassOOP/MyClass.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestTeamAndLeague.java" tooltip="LeagueGame/src/lv/kristine/test/TestTeamAndLeague.java">
-<persistable path="/LeagueGame/src/lv/kristine/test/TestTeamAndLeague.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Team.java" tooltip="LeagueGame/src/lv/kristine/module/Team.java">
-<persistable path="/LeagueGame/src/lv/kristine/module/Team.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="League.java" tooltip="LeagueGame/src/lv/kristine/module/League.java">
-<persistable path="/LeagueGame/src/lv/kristine/module/League.java"/>
-</file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditorNoSource" name="DefaultText.class" tooltip="com.sun.org.apache.xerces.internal.impl.xs.opti.DefaultText">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=lecture13/\/usr\/lib\/jvm\/java-8-openjdk-amd64\/jre\/lib\/rt.jar&lt;com.sun.org.apache.xerces.internal.impl.xs.opti(DefaultText.class"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestFile.java" tooltip="lecture13/src/lv/kristine/inputoutput/TestFile.java">
+<persistable path="/lecture13/src/lv/kristine/inputoutput/TestFile.java"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestChangeString.java" tooltip="lecture13/src/lv/kristine/inputoutput/TestChangeString.java">
 <persistable path="/lecture13/src/lv/kristine/inputoutput/TestChangeString.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestTwoArrays.java" tooltip="lecture13/src/lv/kristine/TestTwoArrays.java">
+<persistable path="/lecture13/src/lv/kristine/TestTwoArrays.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SadMoodAnswer.java" tooltip="chatbot/src/SadMoodAnswer.java">
+<persistable path="/chatbot/src/SadMoodAnswer.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ChatBot2.java" tooltip="chatbot/src/ChatBot2.java">
+<persistable path="/chatbot/src/ChatBot2.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RobotChat.java" tooltip="chatbot/src/RobotChat.java">
+<persistable path="/chatbot/src/RobotChat.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LoopTest.java" tooltip="chatbot/src/LoopTest.java">
+<persistable path="/chatbot/src/LoopTest.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Conversate.java" tooltip="chatbot/src/Conversate.java">
+<persistable path="/chatbot/src/Conversate.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PictureTest.java" tooltip="lecture13/src/lv/kristine/inputoutput/PictureTest.java">
+<persistable path="/lecture13/src/lv/kristine/inputoutput/PictureTest.java"/>
 </file>
 </mruList>
 </workbench>

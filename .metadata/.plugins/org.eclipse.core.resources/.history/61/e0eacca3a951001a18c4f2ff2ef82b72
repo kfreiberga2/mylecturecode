@@ -1,0 +1,6 @@
+
+public class ChatEnums {
+	
+enum Mood {good, bad, fine};
+
+}

@@ -1,0 +1,30 @@
+
+
+
+Scanner sc = new Scanner(System.in);
+System.out.println("ROBOT: Hello!!");
+String name = sc.nextLine();
+System.out.println("ROBOT: How is your day? Good/Fine/Sad");
+Scanner sc1 = new Scanner(System.in);
+String mood = sc1.nextLine();
+//String arr [] = {"Fine", "Good", "Sad"};
+if(mood.equalsIgnoreCase("Fine")){
+System.out.println("ROBOT: Hmmm....I will try to make your day better!!");
+System.out.println("ROBOT: Choose one: Joke, Meme, Recipe or Song.");
+}else if(mood.equalsIgnoreCase("Good")){
+System.out.println("ROBOT: That's great....!");
+System.out.println("ROBOT: Wanna have more fun?");
+System.out.println("ROBOT: Choose one: Joke, Meme, Recipe or Song.");
+}else if(mood.equalsIgnoreCase("Sad")){
+System.out.println("ROBOT: Ohhhh....!");
+System.out.println("ROBOT: Hmmm....I will try to make your day better!!");
+System.out.println("ROBOT: Choose one: Joke, Meme, Recipe or Song.");
+}else{
+System.out.println("ROBOT: Try one more time... Enter please Good/Fine/Sad ");
+// return to question how is your day!!
+}
+
+}
+}
+
+
