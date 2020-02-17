@@ -1,0 +1,15 @@
+import java.io.File;
+import java.net.URL;
+
+
+public class UrlLink {
+
+	
+	public static void main(String[] args) {
+		File f = new File("https://stackoverflow.com/questions/51165572/how-to-print-file-path-as-a-hyperlink");
+		URL url = f.toURI().toURL();
+		System.out.println(f);
+
+	}
+
+}
